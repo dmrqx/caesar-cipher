@@ -1,0 +1,15 @@
+{
+  "name": "caesar-shift",
+  "version": "1.0.0",
+  "description": "Caesar Cipher exercise",
+  "license": "UNLICENSED",
+  "author": "Juliana Demarque <ju.dmrq@gmail.com>",
+  "engines": {
+    "node": "12.14.1",
+    "npm": "6.13.4"
+  },
+  "private": true,
+  "bin": {
+    "caesar-shift": "src/main.js"
+  }
+}
